@@ -309,3 +309,6 @@ assets/nltk_data/
 
 # exclude *.models
 /models/
+
+# exclude .pdf
+*.pdf
